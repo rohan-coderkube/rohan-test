@@ -10,8 +10,6 @@ class LoignActivity : AppCompatActivity(), MainView {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_loign)
-
-
     }
 
 
@@ -24,3 +22,5 @@ class LoignActivity : AppCompatActivity(), MainView {
     }
 
 }
+
+
